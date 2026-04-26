@@ -12,6 +12,7 @@ license-files = ['LICENSE', 'LICENSE.docs']
 readme = 'README.md'
 requires-python = '>=3.11'
 dependencies = [
+	'torii>=1.0.0a0,<2.0',
 	'Jinja2~=3.1',
 ]
 keywords = [
